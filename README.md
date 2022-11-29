@@ -11,9 +11,13 @@ INTEGRANTES:
 OBJETIVOS
 
 -Objetivo General
+
    -Crear un circuito de led nocturno automático e identificar los elementos empleados para su creación y cual el la función que cumple.
+   
 -Objetivos específicos.
+
    -Identificar el funcionamiento de un circuito, aplicando conocimientos adquiridos durante las clases y trabajos, para asi saber si es un sircuito en serie o      paralelo o a su ves mixto.
+   
    - Desarrollar el circuito y aprender como funciona y los lugares donde se los puede aplicar su uso, para que beneficios y cual es el funcionamiento de los elementos usados.
 
 MARCO TEÓRICO
