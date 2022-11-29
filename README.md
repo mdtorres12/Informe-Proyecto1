@@ -25,6 +25,9 @@ MARCO TEÓRICO
 
 EXPLICACIÓN DEL PROCEDIMIENTO
 
+![image](https://user-images.githubusercontent.com/116812951/204416789-59a1f76b-6151-4fda-a0aa-e9e44e9792ef.png)
+
+
 Diagramas de bloques.
 
 Diagramas UML. (casos de uso-clase)
