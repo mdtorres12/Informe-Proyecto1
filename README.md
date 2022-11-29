@@ -22,6 +22,7 @@ OBJETIVOS
 
 MARCO TEÓRICO
 
+![Proyecto 1](https://user-images.githubusercontent.com/116812951/204425630-f25c141b-ee02-49ad-83f7-bc3b267e9f28.png)
 
 EXPLICACIÓN DEL PROCEDIMIENTO
 
