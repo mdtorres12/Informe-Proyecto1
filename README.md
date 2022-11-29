@@ -46,5 +46,9 @@ https://youtu.be/NdqSHyFL6z8
 
 CONCLUSIONES
 
+- Se pudo identificar que el circuito empleado es un circuito mixto, debido a que consta con elementos colocados en serie y otros colocado en paralelo.
+- Los lugares donde se puede aplicar este circuito son muy pocos, pero su uso es más en el alumbrado público.
+- Presenta beneficios, ya que no se necesita de un gran número de personas para controlar el alumbrado público, sino que el momento en que se oculta el sol las luces se encienden solas.
+- Se pudo identificar que cada elemento tiene una función específica que ayuda al funcionamiento del circuito, ya sea para controlar el paso de corriente y energía.
 
 BIBLIOGRAFÍA
