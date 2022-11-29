@@ -1,12 +1,12 @@
 # Informe-Proyecto1
 
-Integrantes:
+INTEGRANTES:
 
-Insuasti Marcos
+   -Insuasti Marcos
 
-Torres María Daniela
+   -Torres María Daniela
 
-Tumbaco Angely
+   -Tumbaco Angely
 
 OBJETIVOS
 
