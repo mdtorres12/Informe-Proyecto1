@@ -62,3 +62,5 @@ Androbot TECH, TOP 5 Proyectos Electrónicos con Transistores, https://www.youtu
 (s/n), ¿Qué son los LEDs?, ledsinternational, https://www.ledsinternational.com/es/que-son-los-leds/
 
 (s/n), Conceptos básicos de transistores PNP y NPN con 2N3904, 2N3906, 2N2222, 2N2907, digikey, https://www.digikey.com/es/articles/transistor-basics
+
+Floyd, Thomas L. (2007). Principios de circuitos eléctricos. Pearson Educacion.
