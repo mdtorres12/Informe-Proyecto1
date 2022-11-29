@@ -54,3 +54,5 @@ CONCLUSIONES
 - Se pudo identificar que cada elemento tiene una función específica que ayuda al funcionamiento del circuito, ya sea para controlar el paso de corriente y energía.
 
 BIBLIOGRAFÍA
+
+(s/n), Sensor de Luz – Información y Características, sensores.top, https://sensores.top/sensor-de-luz-informacion-y-caracteristicas/
