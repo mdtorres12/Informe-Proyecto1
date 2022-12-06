@@ -28,19 +28,7 @@ MARCO TEÓRICO
 
 EXPLICACIÓN DEL PROCEDIMIENTO
 
-Diagramas de bloques.
-
-Diagramas UML. (casos de uso-clase)
-
-Diagramas eléctricos.
-
-Diagramas esquemáticos.
-
 ![image](https://user-images.githubusercontent.com/116812951/204416789-59a1f76b-6151-4fda-a0aa-e9e44e9792ef.png)
-
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
-
-RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 VIDEO
 
